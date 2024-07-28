@@ -7,7 +7,7 @@ public class Cliente {
 		CarroPrototype palioNovo = prototipoPalio.clonar();
 		palioNovo.setValorCompra(30900.0);
 		CarroPrototype palioUsado = prototipoPalio.clonar();
-		palioUsado.setValorCompra(21000.0);
+		palioUsado.setValorCompra(29000.0);
 
 		System.out.println(palioNovo.exibirInfo());
 		System.out.println(palioUsado.exibirInfo());
