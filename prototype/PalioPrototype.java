@@ -1,4 +1,4 @@
-package br.padroes.prototype;
+package prototype;
 
 public class PalioPrototype extends CarroPrototype {
 
